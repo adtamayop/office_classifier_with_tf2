@@ -1,6 +1,8 @@
 # Clasificador de objetos de oficina 
 
-Clasificador de imágenes de objetos de oficina con transfer learning con tensorflow 2.0
+Clasificador de imágenes de objetos de oficina utilizando diferentes arquitecturas y transfer learning 
+
+Los modelos fueron implementados en tensorflow 2.0-Beta
 
 Base de datos: 
 https://drive.google.com/file/d/1mZvzT6jJjdc9V-P5dl-nUHRV-tqSMWIP/view?usp=sharing
