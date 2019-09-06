@@ -30,8 +30,16 @@ Dicha base de datos contiene 17 Clases, las cuales son:
 Métricas obtenidas:
 
 * Arquitectura propia: accuracy de 80.4%
-* MobileNetV2: accuracy de 92.2 %
-* ResNet50: accuracy de 86.78 %
-
 
 ![alt text](/images/accuracy_basic_model.png)
+
+
+* ResNet50: accuracy de 86.78 %
+
+![alt text](/images/acurracy_resnet50.png)
+
+* MobileNetV2: accuracy de 92.2 %
+
+![alt text](/images/accuracy_mobileNetV2.png)
+
+
