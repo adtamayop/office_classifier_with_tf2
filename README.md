@@ -34,4 +34,4 @@ Métricas obtenidas:
 * ResNet50: accuracy de 86.78 %
 
 
-
+![alt text](/images/accuracy_basic_model.png)
