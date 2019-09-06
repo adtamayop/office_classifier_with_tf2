@@ -13,7 +13,7 @@ Dicha base de datos contiene 17 Clases, las cuales son:
 * Lapicero
 * Cinta adhesiva 
 * Silla
-* Aramario
+* Armario
 * Tijera
 * Marcador
 * Fax
