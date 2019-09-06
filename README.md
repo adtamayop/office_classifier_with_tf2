@@ -27,7 +27,7 @@ Dicha base de datos contiene 17 Clases, las cuales son:
 * Cuaderno
 * Agenda
 
-Métricas obtenidas:
+Métricas obtenidas en el conjunto de prueba:
 
 * Arquitectura propia: accuracy de 80.4%
 
